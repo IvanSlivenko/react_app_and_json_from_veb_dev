@@ -1,0 +1,15 @@
+https://youtu.be/8gYXCRpCxsw
+
+npm install create-react-app
+npx create-react-app app
+
+cd app
+
+npm install
+
+npm install react-router-dom
+
+
+---------------------------------
+
+00 : 00 : 00
