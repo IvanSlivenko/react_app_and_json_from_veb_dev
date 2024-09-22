@@ -4,174 +4,174 @@
         "name": "Футбольний м'яч",
         "price": "100",
         "description": "Опис футбольного м'яча",
-        "category": "1"
+        "category": 1
     },
     "2": {
         "id": 2,
         "name": "Баскетбольний м'яч",
         "price": "120",
         "description": "Опис баскетбольного м'яча",
-        "category": "1"
+        "category": 2
     },
     "3": {
         "id": 3,
         "name": "Тенісна ракетка",
         "price": "130",
         "description": "Опис тенісної ракетки",
-        "category": "1"
+        "category": 4
     },
     "4": {
         "id": 4,
         "name": "Велосипедний шолом",
         "price": "140",
         "description": "Опис велосипедного шолома",
-        "category": "1"
+        "category": 5
     },
     "5": {
         "id": 5,
         "name": "Ковзани",
         "price": "150",
         "description": "Опис ковзанів",
-        "category": "1"
+        "category": 6
     },
     "6": {
         "id": 6,
         "name": "Спортивна сумка",
         "price": "160",
         "description": "Опис спортивної сумки",
-        "category": "1"
+        "category": 7
     },
     "7": {
         "id": 7,
         "name": "Боксерські рукавички",
         "price": "170",
         "description": "Опис боксерських рукавичок",
-        "category": "1"
+        "category": 8
     },
     "8": {
         "id": 8,
         "name": "Скакалка",
         "price": "180",
         "description": "Опис скакалки",
-        "category": "1"
+        "category": 7
     },
     "9": {
         "id": 9,
         "name": "Футбольна форма",
         "price": "190",
         "description": "Опис футбольної форми",
-        "category": "1"
+        "category": 1
     },
     "10": {
         "id": 10,
         "name": "Волейбольний м'яч",
         "price": "200",
         "description": "Опис волейбольного м'яча",
-        "category": "1"
+        "category": 9
     },
     "11": {
         "id": 11,
         "name": "Спортивна пляшка",
         "price": "210",
         "description": "Опис спортивної пляшки",
-        "category": "1"
+        "category": 7
     },
     "12": {
         "id": 12,
         "name": "Штанга",
         "price": "220",
         "description": "Опис штанги",
-        "category": "1"
+        "category": 10
     },
     "13": {
         "id": 13,
         "name": "Килимок для йоги",
         "price": "230",
         "description": "Опис килимка для йоги",
-        "category": "1"
+        "category": 7
     },
     "14": {
         "id": 14,
         "name": "Гантелі",
         "price": "240",
         "description": "Опис гантелей",
-        "category": "1"
+        "category": 10
     },
     "15": {
         "id": 15,
         "name": "Плавальні окуляри",
         "price": "250",
         "description": "Опис плавальних окулярів",
-        "category": "1"
+        "category": 11
     },
     "16": {
         "id": 16,
         "name": "Фітнес-браслет",
         "price": "260",
         "description": "Опис фітнес-браслета",
-        "category": "1"
+        "category": 7
     },
     "17": {
         "id": 17,
         "name": "Тенісний м'яч",
         "price": "270",
         "description": "Опис тенісного м'яча",
-        "category": "1"
+        "category": 4
     },
     "18": {
         "id": 18,
         "name": "Коврик для фітнесу",
         "price": "280",
         "description": "Опис коврика для фітнесу",
-        "category": "1"
+        "category": 7
     },
     "19": {
         "id": 19,
         "name": "Бігові кросівки",
         "price": "290",
         "description": "Опис бігових кросівок",
-        "category": "1"
+        "category": 3
     },
     "20": {
         "id": 20,
         "name": "Лижні палиці",
         "price": "300",
         "description": "Опис лижних палиць",
-        "category": "1"
+        "category": 12
     },
     "21": {
         "id": 21,
         "name": "М'яч для пілатесу",
         "price": "310",
         "description": "Опис м'яча для пілатесу",
-        "category": "1"
+        "category": 7
     },
     "22": {
         "id": 22,
         "name": "Ласти для плавання",
         "price": "320",
         "description": "Опис ласт для плавання",
-        "category": "1"
+        "category":11
     },
     "23": {
         "id": 23,
         "name": "Набір для бадмінтону",
         "price": "330",
         "description": "Опис набору для бадмінтону",
-        "category": "1"
+        "category": 13
     },
     "24": {
         "id": 24,
-        "name": "Турнікет для підтягувань",
+        "name": "Турнік для підтягувань",
         "price": "340",
-        "description": "Опис турнікета для підтягувань",
-        "category": "1"
+        "description": "Опис турніка для підтягувань",
+        "category": 7
     },
     "25": {
         "id": 25,
         "name": "Ролики",
         "price": "350",
         "description": "Опис роликів",
-        "category": "1"
+        "category": 7
     }
 }
